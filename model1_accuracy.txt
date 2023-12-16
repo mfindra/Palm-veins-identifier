@@ -1,0 +1,306 @@
+No match. Rank 1: 056_l_940, Image: 001, Match: 0.1974
+Match! Rank 1: 001_l_940, Image: 001, Match: 0.2172
+Match! Rank 1: 001_l_940, Image: 001, Match: 0.2202
+Match! Rank 1: 002_l_940, Image: 002, Match: 0.3268
+Match! Rank 1: 002_l_940, Image: 002, Match: 0.2872
+Match! Rank 1: 002_l_940, Image: 002, Match: 0.4030
+No match. Rank 1: 056_l_940, Image: 003, Match: 0.2287
+Match! Rank 1: 003_l_940, Image: 003, Match: 0.2888
+No match. Rank 1: 044_l_940, Image: 003, Match: 0.2635
+Match! Rank 1: 004_l_940, Image: 004, Match: 0.3131
+Match! Rank 1: 004_l_940, Image: 004, Match: 0.3364
+No match. Rank 1: 028_l_940, Image: 004, Match: 0.1895
+Match! Rank 1: 005_l_940, Image: 005, Match: 0.3477
+No match. Rank 1: 056_l_940, Image: 005, Match: 0.2754
+No match. Rank 1: 011_l_940, Image: 005, Match: 0.1947
+Match! Rank 1: 006_l_940, Image: 006, Match: 0.2636
+Match! Rank 1: 006_l_940, Image: 006, Match: 0.2678
+No match. Rank 1: 056_l_940, Image: 006, Match: 0.2114
+Match! Rank 1: 007_l_940, Image: 007, Match: 0.3903
+Match! Rank 1: 007_l_940, Image: 007, Match: 0.2916
+Match! Rank 1: 007_l_940, Image: 007, Match: 0.4039
+Match! Rank 1: 008_l_940, Image: 008, Match: 0.2664
+Match! Rank 1: 008_l_940, Image: 008, Match: 0.2576
+Match! Rank 1: 008_l_940, Image: 008, Match: 0.2792
+No match. Rank 1: 018_l_940, Image: 009, Match: 0.2288
+Match! Rank 1: 009_l_940, Image: 009, Match: 0.2012
+Match! Rank 1: 009_l_940, Image: 009, Match: 0.3947
+Match! Rank 1: 010_l_940, Image: 010, Match: 0.2042
+Match! Rank 1: 010_l_940, Image: 010, Match: 0.3266
+Match! Rank 1: 010_l_940, Image: 010, Match: 0.3259
+Match! Rank 1: 011_l_940, Image: 011, Match: 0.2194
+Match! Rank 1: 011_l_940, Image: 011, Match: 0.2826
+No match. Rank 1: 096_l_940, Image: 011, Match: 0.1823
+Match! Rank 1: 012_l_940, Image: 012, Match: 0.3958
+Match! Rank 1: 012_l_940, Image: 012, Match: 0.3058
+Match! Rank 1: 012_l_940, Image: 012, Match: 0.2485
+No match. Rank 1: 096_l_940, Image: 013, Match: 0.2336
+Match! Rank 1: 013_l_940, Image: 013, Match: 0.2092
+No match. Rank 1: 002_l_940, Image: 013, Match: 0.2217
+Match! Rank 1: 014_l_940, Image: 014, Match: 0.2445
+No match. Rank 1: 062_l_940, Image: 014, Match: 0.1626
+No match. Rank 1: 002_l_940, Image: 014, Match: 0.2464
+Match! Rank 1: 015_l_940, Image: 015, Match: 0.3176
+Match! Rank 1: 015_l_940, Image: 015, Match: 0.2980
+Match! Rank 1: 015_l_940, Image: 015, Match: 0.2840
+No match. Rank 1: 052_l_940, Image: 016, Match: 0.1496
+No match. Rank 1: 061_l_940, Image: 016, Match: 0.2070
+No match. Rank 1: 061_l_940, Image: 016, Match: 0.2409
+Match! Rank 1: 017_l_940, Image: 017, Match: 0.4793
+Match! Rank 1: 017_l_940, Image: 017, Match: 0.2879
+No match. Rank 1: 033_l_940, Image: 017, Match: 0.1793
+No match. Rank 1: 087_l_940, Image: 018, Match: 0.3098
+Match! Rank 1: 018_l_940, Image: 018, Match: 0.3123
+Match! Rank 1: 018_l_940, Image: 018, Match: 0.3660
+Match! Rank 1: 019_l_940, Image: 019, Match: 0.2961
+Match! Rank 1: 019_l_940, Image: 019, Match: 0.1875
+Match! Rank 1: 019_l_940, Image: 019, Match: 0.2649
+Match! Rank 1: 020_l_940, Image: 020, Match: 0.4122
+Match! Rank 1: 020_l_940, Image: 020, Match: 0.3288
+Match! Rank 1: 020_l_940, Image: 020, Match: 0.3733
+No match. Rank 1: 047_l_940, Image: 021, Match: 0.2645
+No match. Rank 1: 026_l_940, Image: 021, Match: 0.2716
+No match. Rank 1: 026_l_940, Image: 021, Match: 0.2403
+Match! Rank 1: 022_l_940, Image: 022, Match: 0.3797
+Match! Rank 1: 022_l_940, Image: 022, Match: 0.3644
+Match! Rank 1: 022_l_940, Image: 022, Match: 0.3265
+Match! Rank 1: 023_l_940, Image: 023, Match: 0.4419
+Match! Rank 1: 023_l_940, Image: 023, Match: 0.3933
+Match! Rank 1: 023_l_940, Image: 023, Match: 0.4123
+Match! Rank 1: 024_l_940, Image: 024, Match: 0.3361
+Match! Rank 1: 024_l_940, Image: 024, Match: 0.3055
+Match! Rank 1: 024_l_940, Image: 024, Match: 0.3125
+Match! Rank 1: 025_l_940, Image: 025, Match: 0.2447
+Match! Rank 1: 025_l_940, Image: 025, Match: 0.2618
+Match! Rank 1: 025_l_940, Image: 025, Match: 0.2449
+Match! Rank 1: 026_l_940, Image: 026, Match: 0.3376
+Match! Rank 1: 026_l_940, Image: 026, Match: 0.3971
+Match! Rank 1: 026_l_940, Image: 026, Match: 0.3515
+Match! Rank 1: 027_l_940, Image: 027, Match: 0.3656
+Match! Rank 1: 027_l_940, Image: 027, Match: 0.4164
+Match! Rank 1: 027_l_940, Image: 027, Match: 0.3510
+Match! Rank 1: 028_l_940, Image: 028, Match: 0.2415
+Match! Rank 1: 028_l_940, Image: 028, Match: 0.3054
+Match! Rank 1: 028_l_940, Image: 028, Match: 0.2285
+No match. Rank 1: 062_l_940, Image: 029, Match: 0.3125
+No match. Rank 1: 018_l_940, Image: 029, Match: 0.1996
+No match. Rank 1: 096_l_940, Image: 029, Match: 0.2846
+Match! Rank 1: 030_l_940, Image: 030, Match: 0.2751
+Match! Rank 1: 030_l_940, Image: 030, Match: 0.2833
+No match. Rank 1: 068_l_940, Image: 030, Match: 0.2392
+No match. Rank 1: 062_l_940, Image: 031, Match: 0.2018
+Match! Rank 1: 031_l_940, Image: 031, Match: 0.2804
+Match! Rank 1: 031_l_940, Image: 031, Match: 0.2472
+Match! Rank 1: 032_l_940, Image: 032, Match: 0.2257
+Match! Rank 1: 032_l_940, Image: 032, Match: 0.2611
+No match. Rank 1: 011_l_940, Image: 032, Match: 0.2283
+Match! Rank 1: 033_l_940, Image: 033, Match: 0.3463
+Match! Rank 1: 033_l_940, Image: 033, Match: 0.4185
+Match! Rank 1: 033_l_940, Image: 033, Match: 0.4195
+Match! Rank 1: 034_l_940, Image: 034, Match: 0.3832
+Match! Rank 1: 034_l_940, Image: 034, Match: 0.3025
+Match! Rank 1: 034_l_940, Image: 034, Match: 0.3952
+Match! Rank 1: 035_l_940, Image: 035, Match: 0.2319
+Match! Rank 1: 035_l_940, Image: 035, Match: 0.3285
+Match! Rank 1: 035_l_940, Image: 035, Match: 0.3070
+No match. Rank 1: 080_l_940, Image: 036, Match: 0.1881
+No match. Rank 1: 096_l_940, Image: 036, Match: 0.2487
+Match! Rank 1: 036_l_940, Image: 036, Match: 0.2801
+No match. Rank 1: 096_l_940, Image: 037, Match: 0.2138
+No match. Rank 1: 096_l_940, Image: 037, Match: 0.2402
+No match. Rank 1: 056_l_940, Image: 037, Match: 0.2398
+No match. Rank 1: 056_l_940, Image: 038, Match: 0.1948
+Match! Rank 1: 038_l_940, Image: 038, Match: 0.4838
+No match. Rank 1: 056_l_940, Image: 038, Match: 0.2431
+No match. Rank 1: 068_l_940, Image: 039, Match: 0.1952
+No match. Rank 1: 056_l_940, Image: 039, Match: 0.2164
+No match. Rank 1: 068_l_940, Image: 039, Match: 0.2118
+No match. Rank 1: 018_l_940, Image: 040, Match: 0.2365
+Match! Rank 1: 040_l_940, Image: 040, Match: 0.2867
+Match! Rank 1: 040_l_940, Image: 040, Match: 0.3710
+Match! Rank 1: 041_l_940, Image: 041, Match: 0.5012
+Match! Rank 1: 041_l_940, Image: 041, Match: 0.5177
+Match! Rank 1: 041_l_940, Image: 041, Match: 0.4297
+No match. Rank 1: 024_l_940, Image: 042, Match: 0.1870
+No match. Rank 1: 050_l_940, Image: 042, Match: 0.1973
+No match. Rank 1: 026_l_940, Image: 042, Match: 0.2751
+Match! Rank 1: 043_l_940, Image: 043, Match: 0.3820
+Match! Rank 1: 043_l_940, Image: 043, Match: 0.2653
+Match! Rank 1: 043_l_940, Image: 043, Match: 0.2690
+Match! Rank 1: 044_l_940, Image: 044, Match: 0.2489
+Match! Rank 1: 044_l_940, Image: 044, Match: 0.3909
+No match. Rank 1: 068_l_940, Image: 044, Match: 0.2513
+Match! Rank 1: 045_l_940, Image: 045, Match: 0.3980
+Match! Rank 1: 045_l_940, Image: 045, Match: 0.2174
+Match! Rank 1: 045_l_940, Image: 045, Match: 0.3033
+Match! Rank 1: 046_l_940, Image: 046, Match: 0.3541
+Match! Rank 1: 046_l_940, Image: 046, Match: 0.4086
+Match! Rank 1: 046_l_940, Image: 046, Match: 0.4172
+Match! Rank 1: 047_l_940, Image: 047, Match: 0.2650
+No match. Rank 1: 096_l_940, Image: 047, Match: 0.2164
+Match! Rank 1: 047_l_940, Image: 047, Match: 0.3073
+No match. Rank 1: 060_l_940, Image: 048, Match: 0.2092
+No match. Rank 1: 011_l_940, Image: 048, Match: 0.1752
+No match. Rank 1: 057_l_940, Image: 048, Match: 0.1704
+Match! Rank 1: 049_l_940, Image: 049, Match: 0.2580
+Match! Rank 1: 049_l_940, Image: 049, Match: 0.2374
+Match! Rank 1: 049_l_940, Image: 049, Match: 0.3197
+Match! Rank 1: 050_l_940, Image: 050, Match: 0.2451
+No match. Rank 1: 002_l_940, Image: 050, Match: 0.2331
+No match. Rank 1: 002_l_940, Image: 050, Match: 0.2417
+No match. Rank 1: 057_l_940, Image: 051, Match: 0.2649
+No match. Rank 1: 026_l_940, Image: 051, Match: 0.2179
+No match. Rank 1: 068_l_940, Image: 051, Match: 0.2525
+No match. Rank 1: 072_l_940, Image: 052, Match: 0.1971
+Match! Rank 1: 052_l_940, Image: 052, Match: 0.2994
+Match! Rank 1: 052_l_940, Image: 052, Match: 0.3237
+Match! Rank 1: 053_l_940, Image: 053, Match: 0.2816
+No match. Rank 1: 087_l_940, Image: 053, Match: 0.2043
+No match. Rank 1: 002_l_940, Image: 053, Match: 0.2502
+Match! Rank 1: 054_l_940, Image: 054, Match: 0.3995
+Match! Rank 1: 054_l_940, Image: 054, Match: 0.3734
+Match! Rank 1: 054_l_940, Image: 054, Match: 0.4918
+Match! Rank 1: 055_l_940, Image: 055, Match: 0.3390
+Match! Rank 1: 055_l_940, Image: 055, Match: 0.2882
+Match! Rank 1: 055_l_940, Image: 055, Match: 0.2466
+Match! Rank 1: 056_l_940, Image: 056, Match: 0.3045
+Match! Rank 1: 056_l_940, Image: 056, Match: 0.3327
+Match! Rank 1: 056_l_940, Image: 056, Match: 0.3241
+No match. Rank 1: 056_l_940, Image: 057, Match: 0.2619
+Match! Rank 1: 057_l_940, Image: 057, Match: 0.2770
+Match! Rank 1: 057_l_940, Image: 057, Match: 0.2834
+Match! Rank 1: 058_l_940, Image: 058, Match: 0.2934
+Match! Rank 1: 058_l_940, Image: 058, Match: 0.3894
+Match! Rank 1: 058_l_940, Image: 058, Match: 0.3428
+Match! Rank 1: 059_l_940, Image: 059, Match: 0.3523
+Match! Rank 1: 059_l_940, Image: 059, Match: 0.3185
+Match! Rank 1: 059_l_940, Image: 059, Match: 0.3026
+No match. Rank 1: 049_l_940, Image: 060, Match: 0.1821
+No match. Rank 1: 087_l_940, Image: 060, Match: 0.2367
+No match. Rank 1: 056_l_940, Image: 060, Match: 0.2082
+Match! Rank 1: 061_l_940, Image: 061, Match: 0.4331
+Match! Rank 1: 061_l_940, Image: 061, Match: 0.2756
+No match. Rank 1: 073_l_940, Image: 061, Match: 0.2565
+Match! Rank 1: 062_l_940, Image: 062, Match: 0.3721
+Match! Rank 1: 062_l_940, Image: 062, Match: 0.3042
+No match. Rank 1: 096_l_940, Image: 062, Match: 0.2679
+No match. Rank 1: 068_l_940, Image: 063, Match: 0.2077
+Match! Rank 1: 063_l_940, Image: 063, Match: 0.3219
+Match! Rank 1: 063_l_940, Image: 063, Match: 0.2774
+Match! Rank 1: 064_l_940, Image: 064, Match: 0.3458
+Match! Rank 1: 064_l_940, Image: 064, Match: 0.3844
+Match! Rank 1: 064_l_940, Image: 064, Match: 0.3376
+Match! Rank 1: 065_l_940, Image: 065, Match: 0.2660
+Match! Rank 1: 065_l_940, Image: 065, Match: 0.3139
+No match. Rank 1: 040_l_940, Image: 065, Match: 0.2489
+No match. Rank 1: 096_l_940, Image: 066, Match: 0.1513
+Match! Rank 1: 066_l_940, Image: 066, Match: 0.3218
+Match! Rank 1: 066_l_940, Image: 066, Match: 0.3375
+Match! Rank 1: 067_l_940, Image: 067, Match: 0.4346
+Match! Rank 1: 067_l_940, Image: 067, Match: 0.4091
+Match! Rank 1: 067_l_940, Image: 067, Match: 0.3839
+Match! Rank 1: 068_l_940, Image: 068, Match: 0.4259
+Match! Rank 1: 068_l_940, Image: 068, Match: 0.4069
+Match! Rank 1: 068_l_940, Image: 068, Match: 0.5568
+No match. Rank 1: 002_l_940, Image: 069, Match: 0.2001
+No match. Rank 1: 044_l_940, Image: 069, Match: 0.1669
+No match. Rank 1: 027_l_940, Image: 069, Match: 0.1693
+Match! Rank 1: 070_l_940, Image: 070, Match: 0.3144
+Match! Rank 1: 070_l_940, Image: 070, Match: 0.3064
+No match. Rank 1: 022_l_940, Image: 070, Match: 0.2236
+Match! Rank 1: 071_l_940, Image: 071, Match: 0.2531
+Match! Rank 1: 071_l_940, Image: 071, Match: 0.2707
+Match! Rank 1: 071_l_940, Image: 071, Match: 0.4606
+Match! Rank 1: 072_l_940, Image: 072, Match: 0.4362
+Match! Rank 1: 072_l_940, Image: 072, Match: 0.3058
+No match. Rank 1: 062_l_940, Image: 072, Match: 0.2776
+Match! Rank 1: 073_l_940, Image: 073, Match: 0.3230
+No match. Rank 1: 072_l_940, Image: 073, Match: 0.2218
+Match! Rank 1: 073_l_940, Image: 073, Match: 0.2827
+No match. Rank 1: 027_l_940, Image: 074, Match: 0.2695
+No match. Rank 1: 072_l_940, Image: 074, Match: 0.2229
+No match. Rank 1: 056_l_940, Image: 074, Match: 0.1908
+Match! Rank 1: 075_l_940, Image: 075, Match: 0.2927
+Match! Rank 1: 075_l_940, Image: 075, Match: 0.2087
+Match! Rank 1: 075_l_940, Image: 075, Match: 0.3032
+No match. Rank 1: 098_l_940, Image: 076, Match: 0.1507
+No match. Rank 1: 054_l_940, Image: 076, Match: 0.1730
+No match. Rank 1: 004_l_940, Image: 076, Match: 0.1612
+Match! Rank 1: 077_l_940, Image: 077, Match: 0.3747
+Match! Rank 1: 077_l_940, Image: 077, Match: 0.3286
+Match! Rank 1: 077_l_940, Image: 077, Match: 0.3543
+Match! Rank 1: 078_l_940, Image: 078, Match: 0.3194
+Match! Rank 1: 078_l_940, Image: 078, Match: 0.3221
+Match! Rank 1: 078_l_940, Image: 078, Match: 0.2363
+Match! Rank 1: 079_l_940, Image: 079, Match: 0.2568
+Match! Rank 1: 079_l_940, Image: 079, Match: 0.2897
+No match. Rank 1: 096_l_940, Image: 079, Match: 0.2815
+No match. Rank 1: 098_l_940, Image: 080, Match: 0.2446
+No match. Rank 1: 069_l_940, Image: 080, Match: 0.2665
+No match. Rank 1: 069_l_940, Image: 080, Match: 0.2396
+No match. Rank 1: 056_l_940, Image: 081, Match: 0.2123
+No match. Rank 1: 056_l_940, Image: 081, Match: 0.2343
+No match. Rank 1: 026_l_940, Image: 081, Match: 0.2346
+Match! Rank 1: 082_l_940, Image: 082, Match: 0.2646
+No match. Rank 1: 072_l_940, Image: 082, Match: 0.2383
+No match. Rank 1: 054_l_940, Image: 082, Match: 0.2384
+No match. Rank 1: 060_l_940, Image: 083, Match: 0.1932
+No match. Rank 1: 046_l_940, Image: 083, Match: 0.1770
+No match. Rank 1: 073_l_940, Image: 083, Match: 0.1930
+Match! Rank 1: 084_l_940, Image: 084, Match: 0.3008
+Match! Rank 1: 084_l_940, Image: 084, Match: 0.4273
+Match! Rank 1: 084_l_940, Image: 084, Match: 0.2926
+No match. Rank 1: 012_l_940, Image: 085, Match: 0.2651
+No match. Rank 1: 007_l_940, Image: 085, Match: 0.2300
+No match. Rank 1: 056_l_940, Image: 085, Match: 0.1951
+No match. Rank 1: 002_l_940, Image: 086, Match: 0.2368
+No match. Rank 1: 072_l_940, Image: 086, Match: 0.2401
+Match! Rank 1: 086_l_940, Image: 086, Match: 0.2517
+Match! Rank 1: 087_l_940, Image: 087, Match: 0.2733
+Match! Rank 1: 087_l_940, Image: 087, Match: 0.3714
+Match! Rank 1: 087_l_940, Image: 087, Match: 0.2900
+Match! Rank 1: 088_l_940, Image: 088, Match: 0.3490
+Match! Rank 1: 088_l_940, Image: 088, Match: 0.3672
+Match! Rank 1: 088_l_940, Image: 088, Match: 0.4205
+Match! Rank 1: 089_l_940, Image: 089, Match: 0.2875
+No match. Rank 1: 002_l_940, Image: 089, Match: 0.2859
+No match. Rank 1: 062_l_940, Image: 089, Match: 0.2842
+Match! Rank 1: 090_l_940, Image: 090, Match: 0.3107
+Match! Rank 1: 090_l_940, Image: 090, Match: 0.3716
+Match! Rank 1: 090_l_940, Image: 090, Match: 0.4020
+No match. Rank 1: 012_l_940, Image: 091, Match: 0.2149
+Match! Rank 1: 091_l_940, Image: 091, Match: 0.4345
+Match! Rank 1: 091_l_940, Image: 091, Match: 0.4343
+Match! Rank 1: 092_l_940, Image: 092, Match: 0.5056
+Match! Rank 1: 092_l_940, Image: 092, Match: 0.5536
+Match! Rank 1: 092_l_940, Image: 092, Match: 0.4227
+No match. Rank 1: 002_l_940, Image: 093, Match: 0.2233
+No match. Rank 1: 002_l_940, Image: 093, Match: 0.2432
+No match. Rank 1: 021_l_940, Image: 093, Match: 0.1973
+Match! Rank 1: 094_l_940, Image: 094, Match: 0.2947
+Match! Rank 1: 094_l_940, Image: 094, Match: 0.3209
+No match. Rank 1: 056_l_940, Image: 094, Match: 0.1930
+Match! Rank 1: 095_l_940, Image: 095, Match: 0.2116
+No match. Rank 1: 056_l_940, Image: 095, Match: 0.2500
+Match! Rank 1: 095_l_940, Image: 095, Match: 0.3493
+No match. Rank 1: 018_l_940, Image: 096, Match: 0.2640
+Match! Rank 1: 096_l_940, Image: 096, Match: 0.2757
+Match! Rank 1: 096_l_940, Image: 096, Match: 0.2692
+Match! Rank 1: 097_l_940, Image: 097, Match: 0.2709
+No match. Rank 1: 020_l_940, Image: 097, Match: 0.2254
+Match! Rank 1: 097_l_940, Image: 097, Match: 0.3602
+Match! Rank 1: 098_l_940, Image: 098, Match: 0.2374
+Match! Rank 1: 098_l_940, Image: 098, Match: 0.3137
+Match! Rank 1: 098_l_940, Image: 098, Match: 0.2571
+No match. Rank 1: 004_l_940, Image: 099, Match: 0.2186
+No match. Rank 1: 084_l_940, Image: 099, Match: 0.2125
+No match. Rank 1: 084_l_940, Image: 099, Match: 0.2164
+No match. Rank 1: 062_l_940, Image: 100, Match: 0.2369
+Match! Rank 1: 100_l_940, Image: 100, Match: 0.2727
+Match! Rank 1: 100_l_940, Image: 100, Match: 0.3688
+
+MODEL 1
+
+Total Matches: 194
+Total Non-Matches: 106
+Percentage of Matches: 64%
