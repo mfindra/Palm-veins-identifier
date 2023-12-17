@@ -180,7 +180,6 @@ usage: script_modelX.py [-h]
 #### Train Mode
 In train mode, the script processes images and saves the image with extracted features to the destination directory. After the first training, the trained data is stored locally and accessed with each subsequent iteration.
 
-##### Usage:
 ```bash
 .venv/bin/python script_modelX.py --train "dataset/" "images_l_940_train/" "images_l_940_train_marked/"
 ```
